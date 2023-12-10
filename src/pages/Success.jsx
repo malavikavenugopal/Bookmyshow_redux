@@ -2,7 +2,7 @@ import React from 'react'
 
 function Success() {
   return (
-    <div style={{backgroundColor:"black",minHeight:"520px"}}>
+    <div style={{backgroundColor:"black",minHeight:"550px"}}>
 
         
       <div className='d-flex justify-content-center align-items-center flex-column ' style={{minHeight:"500px"}} >

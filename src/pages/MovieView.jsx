@@ -20,7 +20,7 @@ function MovieView() {
 
 
       <div  style={{ position: "relative" }}>
-        <img className='px-5' width='1370' height='500' src={movie.cover} />
+        <img className='px-5 w-100'   height='500' src={movie.cover} />
         <div style={{ position: "absolute", marginTop: "-455px", marginLeft: "50px" }} >
           <div className="row px-2">
 
