@@ -1,0 +1,264 @@
+{
+    "movies":[
+
+        {
+            "id":1,
+            "name":"Antony (2023)",
+            "poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/antony-et00376678-1700562806.jpg",
+            "cover":"https://www.nowrunning.com/content/movie/2023/anton-28352/bg2_antony.jpg",
+            "language":"Malayalam",
+            "trailer":"HQtWY7jgiC4",
+            "about":"Antony's life embarks on a transformation when Anna enters his life. While he starts enjoying his new life, his enemies return seeking revenge.",
+            "cast":[
+                {
+                    "name":"Joju George as Antony Anthrapper",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/joju-george-1050399-1648620027.jpg"
+                },
+                {
+                    "name":"Chemban Vinod as Fr. Paul Kattakayam",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/chemban-vinod-1047874-24-03-2017-17-45-20.jpg"
+                },
+                {
+                    "name":"Kalyani Priyadarshan  as Ann Mariya",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kalyani-priyadarshan-1087722-16-11-2017-04-27-00.jpg"
+                },
+                {
+                    "name":"Nyla Usha as Maya",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/nyla-usha-39254-1655190943.jpg"
+                },
+                {
+                    "name":"Asha Sarathas Jessy",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/asha-sarath-1046446-24-03-2017-16-11-00.jpg"
+                }
+            ],
+            "crew":[
+                {
+                    "name":"Joshiy Director",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/joshiy-23120-24-03-2017-17-45-31.jpg"
+                },
+                {
+                    "name":"Einstin Zac Paul Producer",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/einstin-zac-paul-2030288-1692602836.jpg"
+                },
+                {
+                    "name":"Rajesh Varma Writer",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/rajesh-varma-1069686-1700566365.jpg"
+                }
+            ],
+            "review":"8.9",
+            "duration":"2h 27m",
+            "theaters":[
+                {
+                   "name":"PVR: Oberon Mall, Kochi" ,
+                   "showtimes": ["9.00 AM", "12.45 PM" ,"6.45 PM"]
+                },
+                {
+                    "name":"Cinepolis: Centre Square Mall, Kochi" ,
+                    "showtimes": ["11.00 AM", "2.45 PM","8.45 PM"]
+                 },
+                 {
+                    "name":"Kairali Sree Theater: North Parvur" ,
+                    "showtimes": ["10.00 AM", "1.45 PM" ,"7.45 PM"]
+                 }
+
+            ]
+        
+        },
+
+
+        {
+            "id":2,
+            "name":"Kaathal - The Core",
+            "poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kaathal--the-core-et00355670-1679575936.jpg",
+            "cover":"https://images.indianexpress.com/2022/11/First-look-poster-of-Kaathal-The-Core.jpg",
+            "language":"Malayalam",
+            "trailer":"uc0kllY_Rgo",
+            "about":"Kaathal - The Core is a Malayalam movie starring Mammootty in the lead.",
+            "cast":[
+                {
+                    "name":"Mammootty Actor",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/mammootty_1340_29-07-2016_11-43-24.jpg"
+                },
+                {
+                    "name":"Jyothika Saravanan ",
+                    "img":"https://in.bmscdn.com/iedb/artist/images/website/poster/large/jyothika-saravanan-2887-24-03-2017-17-27-25.jpg"
+                },
+                {
+                    "name":"Lalu Alex",
+                    "img":"https://in.bmscdn.com/iedb/artist/images/website/poster/large/lalu-alex-2712-24-03-2017-13-59-01.jpg"
+                },
+                {
+                    "name":"Muthumani",
+                    "img":"https://in.bmscdn.com/iedb/artist/images/website/poster/large/muthumani-iein090965-13-11-2018-12-57-00.jpg"
+                }
+               
+            ],
+            "crew":[
+                {
+                    "name":"Jeo Baby Director",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jeo-baby-1064162-1661321857.jpg"
+                },
+                {
+                    "name":"Paulson Skaria Writer",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/paulson-skaria-2027788-1683550449.jpg"
+                },
+                {
+                    "name":"Adarsh Sukumaran Writer",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/adarsh-sukumaran-2027789-1683550597.jpg"
+                }
+            ],
+            "review":"9.1",
+            "duration":"1h 54m",
+        
+            "theaters":[
+                {
+                   "name":"PVR: Oberon Mall, Kochi" ,
+                   "showtimes": [ "12.45 PM " ,"6.45 PM"]
+                },
+                {
+                    "name":"Cinepolis: Centre Square Mall, Kochi" ,
+                    "showtimes": ["11.00 AM", "2.45 PM ","8.45 PM"]
+                 },
+                 {
+                    "name":"Pan Cinemas: Nucleus Mall" ,
+                    "showtimes": ["10.00 AM", "1.45 PM" ,"7.45 PM"]
+                 }
+
+            ]
+        
+        },
+        {
+            "id":3,
+            "name":"Animal",
+            "poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/animal-et00311762-1672646524.jpg",
+            "cover":"https://www.boxofficebusiness.in/wp-content/uploads/2023/12/Animal-movie.jpg",
+            "language":"Hindi",
+            "trailer":"Dydmpfo68DA",
+            "about":"This is the story of a son whose love for his father knows no bounds. As their bond begins to fracture, a chain of extraordinary events unfold causing the son to undergo a remarkable transformation consumed by a thirst for vengeance.",
+            "cast":[
+                {
+                    "name":"Ranbir Kapoor Actor",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ranbir-kapoor-2817-1691565170.jpg"
+                },
+                {
+                    "name":"Anil Kapoor as Balbir Singh ",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/anil-kapoor-176-12-09-2017-07-42-36.jpg"
+                },
+                {
+                    "name":"Bobby Deol Actor",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/bobby-deol-338-24-07-2017-17-03-40.jpg"
+                },
+                {
+                    "name":"Rashmika Mandanna  as Geethanjali",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/rashmika-mandanna-1076783-28-12-2016-12-20-39.jpg"
+                },
+                {
+                    "name":"Tripti Dimri Actor",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/tripti-dimri-1093177-01-06-2018-03-16-40.jpg"
+                }
+               
+               
+            ],
+            "crew":[
+                {
+                    "name":"Sandeep Reddy Vanga Director, Writer, Screenplay, Editor",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sandeep-reddy-vanga-1076502-08-08-2017-17-26-44.jpg"
+                },
+                {
+                    "name":"Bhushan Kumar Producer",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/bhushan-kumar-1075903-11-11-2016-05-08-19.jpg"
+                },
+                {
+                    "name":"Pranay Reddy Vanga Producer, Screenplay",
+                    "img":"https://in.bmscdn.com/iedb/artist/images/website/poster/large/pranay-reddy-vanga-1085523-22-08-2017-16-37-13.jpg"
+                }
+            ],
+            "review":"8.4",
+            "duration":"3h 21m",
+        
+            "theaters":[
+                {
+                   "name":"PVR: Oberon Mall, Kochi" ,
+                   "showtimes": [ "12.45 PM " ,"10.00 PM"]
+                },
+                {
+                    "name":"Vanitha Cineplex RGB Laser 4K 3D ATMOS: Edappally" ,
+                    "showtimes": ["12.00 PM", "8.45 PM"]
+                 },
+                 {
+                    "name":"Shenoys: Kochi" ,
+                    "showtimes": ["10.00 AM", "1.45 PM" ,"7.45 PM"]
+                 }
+
+            ]
+        
+        },
+        
+        {
+            "id":4,
+            "name":"A Ranjith Cinema",
+            "poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/a-ranjith-cinema-et00378097-1701679417.jpg",
+            "cover":"https://images.ottplay.com/images/namitha-pramod-and-asif-ali-in-a-still-from-a-ranjith-cinema-1702025830.jpg?impolicy=ottplay-20210210&width=1200&height=675",
+            "language":"Malayalam",
+            "trailer":"zDk2zF70lkk",
+            "about":"The movie takes you on a roller coaster ride of events that happen in Ranjith`s life and how it affects the people around him, forcing him to resolve the matter before he looses control.",
+            "cast":[
+                {
+                    "name":"Asif Ali as Ranjith",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/asif-ali-13839-1658319936.jpg"
+                },
+                {
+                    "name":" Saiju Kurup Actor",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/saiju-kurup-16417-16-08-2018-11-50-48.jpg"
+                },
+                {
+                    "name":"Namitha Pramod Actor",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/namitha-pramod-31952-24-03-2017-17-35-09.jpg"
+                },
+                {
+                    "name":"Aju Varghese Actor",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/aju-varghese-30512-18-04-2017-06-18-24.jpg"
+                },
+                {
+                    "name":"Harisree Ashokan Actor",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/harisree-ashokan-1051497-1655191196.jpg"
+                }
+               
+               
+            ],
+            "crew":[
+                {
+                    "name":"Nishanth Sattu Director, Writer",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/nishanth-sattu-2032579-1701677238.jpg"
+                },
+                {
+                    "name":"Nishad Peechi Producer",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/nishad-peechi-2032580-1701677370.jpg"
+                },
+                {
+                    "name":"Midhun Ashokan Musician",
+                    "img":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/midhun-ashokan-2027044-1680784815.jpg"
+                }
+            ],
+            "review":"8.4",
+            "duration":"3h 21m",
+        
+            "theaters":[
+                {
+                   "name":"PVR: Oberon Mall, Kochi" ,
+                   "showtimes": [ "4.30 PM " ,"10.40 PM"]
+                },
+                {
+                    "name":"PVR: Lulu, Kochi" ,
+                    "showtimes": ["12.00 PM"]
+                 },
+                 {
+                    "name":"Pan Cinemas: Nucleus Mall" ,
+                    "showtimes": ["10.00 AM"]
+                 }
+
+            ]
+        
+        }
+    ]
+}

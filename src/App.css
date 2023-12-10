@@ -1,38 +1,78 @@
-.App {
-  text-align: center;
+
+.gradient{
+  background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(252,176,69,0) 100%);
+}
+*{
+  
+  font-family: Afacad;
+  color:white;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+
+    .movie_header{
+      h1{
+  
+        font-weight: 400;
+      }
+      h4{    font-weight: 400;
+      }
+    }
+
+
+
+    
+
+.main-container {
+	width: 270px;
+	height: 540px;
+	position: relative;
+	margin: 0 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.poster-container {
+	width: 230px;
+	position: absolute;
+	top: 0;
+	left: 20px;
+	z-index: 9999;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.poster {
+	width: 100%;
+	box-shadow: 0 5px 20px 3px rgba(0, 0, 0, 0.6);
 }
 
-.App-link {
-  color: #61dafb;
+.ticket-container {
+	background: #fff;
+	width: 270px;
+	height: 430px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border-radius: 5px;
+	position: absolute;
+	top: 20px;
+	box-shadow: 0 5px 20px 3px rgba(0, 0, 0, 0.6);
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+
+
+
+.ticket__content {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	text-align: center;
 }
+
+.ticket__movie-title {
+	text-transform: uppercase;
+	margin-bottom: 5px;
+}
+
+
